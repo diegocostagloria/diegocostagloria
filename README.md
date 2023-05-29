@@ -4,13 +4,13 @@
 
 </br>
 
- <a href="https://www.instagram.com/jeniblo_dev/">
+ <a href="https://www.instagram.com">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/jeniblo_dev">
+  <a href="https://twitter.com">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+  <a href="https://www.linkedin.com">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
